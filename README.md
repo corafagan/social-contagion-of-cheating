@@ -2,7 +2,6 @@
 
 **Author**: Cora Fagan  
 **Date Created**: 2024-12-14
-**Last Updated**: 2025-XX-XX  
 **Language**: Python 3  
 **Project Type**: Simulation-based behavioral analysis using real-world game telemetry  
 
