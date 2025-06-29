@@ -32,9 +32,14 @@ Using real match data from *PlayerUnknown's Battlegrounds (PUBG)* between **Marc
 
 ## Repository Structure
 
-├── get_file_data.py # Functions to load and clean data files
-├── cheaters.py # Cheating behavior logic and filters
+├── get_file_data.py # Functions to load and clean data files 
+
+├── cheaters.py # Cheating behavior logic and filters 
+
 ├── shuffle.py # Functions to simulate randomized match events
+
 ├── summarize.py # Metrics, mean estimates, and confidence intervals
+
 ├── social-contagion-of-cheating.ipnyb # Core analysis logic and output (or use IPython/Notebook)
+
 └── README.md # This file
